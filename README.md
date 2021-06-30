@@ -53,14 +53,14 @@ Você pode visualizar o layout do projeto através [deste link](https://www.figm
 - Uso do recurso de _Image Background_ da biblioteca _react-native_ na página _AppointmentDetails_
 
 ## :rocket: Getting Started:
-Run **`yarn`** or **`npm install`** to download and install project dependencies.
-Run **`expo start`** to start the project's _development server_.
-Open the expo app on your mobile device and read the QR code.
+Run **`yarn`** or **`npm install`** to download and install project dependencies.<br/>
+Run **`expo start`** to start the project's _development server_.<br/>
+Open the expo app on your mobile device and read the QR code.<br/>
 
-Create a `New Application` on the [Discord server](https://discord.com/developers/applications) to obtain authentication credentials.
+Create a `New Application` on the [Discord server](https://discord.com/developers/applications) to obtain authentication credentials.<br/>
 <img alt="API OAuth2 URL" src=".github/API_OAuth2_URL.png" />
 
-Create a copy of the `.env.example` file and remove the `.example`.
+Create a copy of the `.env.example` file and remove the `.example`.<br/>
 Copy the _API OAuth2 URL_ and paste the corresponding values in your `.env` file.
  
 ```cl
