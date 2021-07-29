@@ -13,17 +13,6 @@
 ## :computer: Projeto:
 Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
 
-## :hammer_and_wrench: Features:
-- Autenticação Social OAuth2 com servidor do Discord.
-- Obtém perfil do usuário cadastro no Discord (username e avatar);
-- Lista os servidores do Discord que o usuário faz parte;
-- Permite realizar o agendamento de partidas;
-- Permite filtrar as partidas por categoria;
-- Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
-- Compartilha o convite para ingressar no servidor do usuário;
-- Permite redirecionar o usuário para o seu próprio servidor;
-- Disponibiliza a função de Logout.
-
 ## :sparkles: Tecnologias:
 - React Native
 - Typescript
@@ -42,8 +31,16 @@ Crie grupos para jogar seus games favoritos com seus amigos com esse App que pos
 - React Native Share
 - Deep Link
 
-## :bookmark::pencil2: Layout:
-Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay-NLW-Together?node-id=58913%3A83). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+## :hammer_and_wrench: Features:
+- Autenticação Social OAuth2 com servidor do Discord.
+- Obtém perfil do usuário cadastro no Discord (username e avatar);
+- Lista os servidores do Discord que o usuário faz parte;
+- Permite realizar o agendamento de partidas;
+- Permite filtrar as partidas por categoria;
+- Exibe se a partida foi agendada em um servidor próprio (anfitrião) ou em servidores de outros (convidado);
+- Compartilha o convite para ingressar no servidor do usuário;
+- Permite redirecionar o usuário para o seu próprio servidor;
+- Disponibiliza a função de Logout.
 
 ## :memo::scroll: Referências interessantes:
 - Autenticação por meio de login através da API do Discord
@@ -70,6 +67,9 @@ RESPONSE_TYPE=
 CLIENT_ID=
 CDN_IMAGE=
 ```
+
+## :bookmark::pencil2: Layout:
+Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay-NLW-Together?node-id=58913%3A83). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 ## 📄 Licença:
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
